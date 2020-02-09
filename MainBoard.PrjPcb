@@ -156,6 +156,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQKPUPTQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MainBoard\Design Rule Check - MainBoard_PCB2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
